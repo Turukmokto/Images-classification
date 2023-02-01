@@ -1,0 +1,10 @@
+Training loss: 1.9787, acc: 0.6032, f1_macro: 0.5950
+Test loss: 0.6705, acc: 0.8689, f1_macro: 0.8578
+Training loss: 1.5441, acc: 0.7447, f1_macro: 0.7382
+Test loss: 0.5350, acc: 0.8914, f1_macro: 0.8807
+Training loss: 1.4425, acc: 0.7846, f1_macro: 0.7789
+Test loss: 0.4857, acc: 0.9040, f1_macro: 0.8985
+Training loss: 1.3644, acc: 0.8080, f1_macro: 0.8022
+Test loss: 0.5908, acc: 0.9201, f1_macro: 0.9170
+Training loss: 1.4156, acc: 0.8177, f1_macro: 0.8131
+Test loss: 0.6108, acc: 0.9107, f1_macro: 0.9032
